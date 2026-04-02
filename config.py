@@ -3,7 +3,7 @@
 BOT_TOKEN = "7734038463:AAGxpV-YjLvxqmT7Frpeag_zhoZfPrReaYs"
 
 # Список ID администраторов
-ADMINS = [6944635614]
+ADMINS = [8473589780,7313407194]
 
 # --- API Ключи (Заполните свои данные) ---
 CRYPTO_PAY_TOKEN = "520594:AAZkSzBVB2WmdXRUI0ZEZ3g1GlTgPiHO7Lw" # Токен от @CryptoBot (Crypto Pay API)
